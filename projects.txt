@@ -1,0 +1,27 @@
+Paychex, Software Engineer III |Rochester, NY| C# | ReactJS | MSSQL | .Net	Jan 2022 to Current
+•	Developed and maintained software products for Payroll and Human Resources using C#, .NET, Python, MongoDB, REST APIs, Microservices, and Azure, delivering scalable and secure enterprise solutions.
+•	Conducted comprehensive analysis and design for new features and program changes; authored technical design documents and contributed to requirement reviews to ensure alignment with business needs.
+•	Led the evaluation and adoption of a new tool-agnostic test automation platform to support cross-cutting tests across multiple services and technology stacks, improving testing flexibility and reliability.
+•	Created and maintained internal documentation by publishing detailed wiki articles in JIRA, enabling better knowledge sharing and smoother onboarding across teams.
+•	Provided technical support for production systems by troubleshooting, resolving issues, and responding to user queries, ensuring minimal downtime and high system reliability.
+
+Mindex (Paychex), Software Engineer II |Rochester, NY| Kotlin | Spring boot | Oracle | OpenShift	Jan 2020 to Jan 2022
+•	Built a modular automation suite using Docker, OpenShift, Kotlin, Spring Boot, Oracle, and Puppet, enhancing deployment consistency and system scalability.
+•	Developed REST APIs in Kotlin with Spring Boot to manage test execution, and implemented a Kafka-based queuing system to ensure reliable and orderly test processing.
+•	Enhanced platform resilience by implementing failover mechanisms and a dynamic rerouting algorithm, resulting in improved uptime and optimal resource usage.
+•	Authored detailed system architecture and design documentation, and presented feature updates to stakeholders, improving team alignment and onboarding efficiency.
+
+Complemar Partners, Software Engineer |Rochester, NY| C# | VueJS | MSSQL | .Net | ASP.Net	Aug 2017 to Jan 2020
+•	Developed logistics and warehousing software using reactive functional programming with .NET MVC, SQL Server, and VueJS, delivering robust customer-facing websites and seller platforms.
+•	Designed and implemented a packaging station and print management feature, reducing warehouse packing time and increasing operational productivity.
+•	Integrated external systems including QuickBooks, Channel Advisor, and Seller Cloud, enabling seamless order import and fulfillment for customers.
+•	Built integrations with third-party shopping platforms such as Amazon, Shopify, WooCommerce, Volusion, and Magento, enhancing compatibility and customer reach.
+•	Refactored a monolithic legacy application into modular microservices, significantly improving code maintainability and accelerating CI/CD deployment cycles.
+
+Response Care, Software Engineer intern |Rochester, NY| Java | PHP | Java script | Python	Jun 2017 to Aug 2017
+•	Developed and maintained embedded Linux software to enable data recording and real-time alert generation on nurse calling system devices, improving responsiveness in healthcare environments.
+•	Enhanced backend services by integrating web functionalities and adding new features using Java and PHP, increasing system reliability and user experience.
+
+Soft-Corner, Software Engineer | Pune | C# | Python | Nodejs | Django | PHP | PhoneGap	Jan 2012 to June 2015
+•	Developed Node Advisor, a platform for Node.js developers to search and evaluate Node modules by implementing Google’s PageRank algorithm using Node.js, Backbone.js, Express.js, MongoDB, and Elasticsearch.
+•	Built internal tools and web applications using Python and Java, leveraging frameworks and technologies such as Django, SQLite, and PhoneGap to streamline development and enable cross-platform deployment.
